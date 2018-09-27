@@ -40,6 +40,13 @@ input{
   border: 2px;
   border-radius: 6.0px;
   box-sizing: border-box;
+  padding-top: 3.0px;
+  padding-bottom: 5.0px;
+}
+
+.button{
+  padding-top: 3.0px;
+  padding-bottom: 5.0px;
 }
 
 
