@@ -8,3 +8,11 @@ body{
 label{
   font-size: 20px;
 }
+
+form{
+  font-family: Arial, "Times New Roman", sans-serif;
+  margin: auto;
+  width: 25%;
+  opacity: .9;
+  background-color: Brown; 
+}
