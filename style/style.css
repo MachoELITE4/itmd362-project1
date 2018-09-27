@@ -3,6 +3,8 @@ body{
   font-family: Arial, "Times New Roman", sans-serif;
   margin-top: 14px;
   margin-bottom: auto; 
+  background-image: url(../media/ferrarf50.jpg);
+  background-position: top center;
 }
 
 label{
