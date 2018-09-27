@@ -5,6 +5,9 @@ body{
   margin-bottom: auto; 
   background-image: url(../media/ferrarf50.jpg);
   background-position: top center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
 }
 
 label{
