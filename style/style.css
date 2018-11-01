@@ -51,5 +51,15 @@ fieldset{
   width: 30%;
   opacity: .9;
   background-color: Brown; 
+  top: -120px;
+  position: relative;
 }
 
+.sil{
+  position: relative;
+  width: 20%;
+  min-width: 200px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  top: -80px;
+}
