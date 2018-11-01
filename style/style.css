@@ -16,10 +16,6 @@ label{
 
 form{
   font-family: Arial, "Times New Roman", sans-serif;
-  margin: auto;
-  width: 25%;
-  opacity: .9;
-  background-color: Brown; 
 }
 
 h1{
@@ -49,4 +45,11 @@ input{
   padding-bottom: 5.0px;
 }
 
+fieldset{
+  padding-bottom: 1.125em; /*minorsecond*/
+  margin: auto;
+  width: 30%;
+  opacity: .9;
+  background-color: Brown; 
+}
 
