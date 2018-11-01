@@ -11,7 +11,7 @@ body{
 }
 
 label{
-  font-size: 20.0px;
+  font-size: 25.629px; /*perfectfifth*/
 }
 
 form{
@@ -20,13 +20,13 @@ form{
 
 h1{
   text-align: center;
-  font-size: 2.0em;
+  font-size: 3.375em; /*perfectfifth*/
   color: blue;
   margin: auto;
 }
 
 p{
-  font-size: 20.0px; 
+  font-size: 25.629px; /*perfectfifth*/
 }
 
 input{
@@ -59,6 +59,15 @@ fieldset{
   position: relative;
   width: 20%;
   min-width: 200px;
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+  top: -80px;
+}
+
+.logo{
+  position: relative;
+  width: 8%;
+  min-width: 60px;
   padding-top: 0.5px;
   padding-bottom: 0.5px;
   top: -80px;
